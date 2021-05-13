@@ -75,4 +75,7 @@ ip-cidr, 202.181.136.108/32, Clubhouse
 ip-cidr, 202.181.136.234/32, Clubhouse
 ip-cidr, 202.226.25.166/32, Clubhouse
 
-host-suffix, agora.io, Clubhouse
+HOST, ap-oversea-tls.agora.io, Clubhouse
+HOST, ap-oversea.agora.io, Clubhouse
+HOST, ap-oversea2.aogora.io, Clubhouse
+HOST, report-oversea.agora.io, Clubhouse
