@@ -14,6 +14,7 @@ DOMAIN,testflight.apple.com,PROXY
 # > clubhouse
 host-suffix, Clubhouseapi, proxy
 host-suffix, pubnub.com, proxy
+host-suffix, pubnubapi.com, proxy
 host-suffix, joinClubhouse.com, proxy
 host-suffix, amplitude.com, proxy
 # > Cryptocurrency
