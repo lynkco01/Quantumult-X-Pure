@@ -1,2 +1,2 @@
 # Quantumult-X-Pure
-Quantumult X 纯净配置，没有去广告和重写
+个人自用 Quantumult X 纯净配置，没有去广告和重写
