@@ -17,6 +17,7 @@ ip-cidr, 38.93.228.104/32, Clubhouse
 ip-cidr, 38.93.228.106/32, Clubhouse
 ip-cidr, 38.93.228.132/32, Clubhouse
 ip-cidr, 38.93.228.138/32, Clubhouse
+ip-cidr, 38.93.228.166/32, Clubhouse
 ip-cidr, 38.93.228.167/32, Clubhouse
 ip-cidr, 45.40.48.11/24, Clubhouse
 ip-cidr, 45.40.48.114/32, Clubhouse
@@ -171,6 +172,7 @@ ip-cidr, 202.181.136.107/32, Clubhouse
 ip-cidr, 202.181.136.108/32, Clubhouse
 ip-cidr, 202.181.136.231/32, Clubhouse
 ip-cidr, 202.181.136.234/32, Clubhouse
+ip-cidr, 202.181.136.236/32, Clubhouse
 ip-cidr, 202.226.25.166/32, Clubhouse
 
 HOST, ap-oversea-tls.agora.io, Clubhouse
