@@ -362,5 +362,5 @@ DOMAIN-SUFFIX,zhimg.com,DIRECT
 DOMAIN-SUFFIX,zhuihd.com,DIRECT
 
 DOMAIN,download.jetbrains.com,DIRECT
-DOMAIN,ntp.nasa.gov,DIRECT
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
+DOMAIN,ntp.nasa.gov,DIRECT
