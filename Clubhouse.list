@@ -1,4 +1,5 @@
 # Clubhouse ip list,收集clubhouse IP 地址
+# 需要服务器开启 udp-relay
 ip-cidr, 3.0.163.78/32, Clubhouse
 ip-cidr, 13.230.60.35/32, Clubhouse
 ip-cidr, 23.98.43.152/32, Clubhouse
