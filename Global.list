@@ -12,7 +12,8 @@ DOMAIN,a771.dscq.akamai.net,PROXY
 # > Apple
 DOMAIN,testflight.apple.com,PROXY
 # > clubhouse
-host-suffix, Clubhouseapi, proxy
+host-suffix, Clubhouse.com, proxy
+host-suffix, Clubhouseapi.com, proxy
 host-suffix, pubnub.com, proxy
 host-suffix, pubnubapi.com, proxy
 host-suffix, joinClubhouse.com, proxy
