@@ -92,6 +92,7 @@ ip-cidr, 129.227.156.31/32, Clubhouse
 ip-cidr, 129.227.156.33/32, Clubhouse
 ip-cidr, 129.227.156.35/32, Clubhouse
 ip-cidr, 129.227.205.98/32, Clubhouse
+ip-cidr, 129.227.205.252/32, Clubhouse
 ip-cidr, 129.227.234.66/32, Clubhouse
 ip-cidr, 129.227.234.67/32, Clubhouse
 ip-cidr, 129.227.234.69/32, Clubhouse
@@ -116,6 +117,7 @@ ip-cidr, 148.153.172.75/32, Clubhouse
 ip-cidr, 148.153.172.76/32, Clubhouse
 ip-cidr, 148.153.172.77/32, Clubhouse
 ip-cidr, 154.86.156.199/32, Clubhouse
+ip-cidr, 164.52.32.61/32, Clubhouse
 ip-cidr, 164.52.36.252/32, Clubhouse
 ip-cidr, 164.52.102.33/32, Clubhouse
 ip-cidr, 164.52.102.34/32, Clubhouse
