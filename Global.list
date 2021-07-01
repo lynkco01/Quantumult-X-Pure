@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,rocksdb.org,PROXY
 DOMAIN-SUFFIX,whatsapp.com,PROXY
 DOMAIN-SUFFIX,whatsapp.net,PROXY
 # > Github
+DOMAIN-SUFFIX,github.blog,PROXY
 DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-SUFFIX,github.io,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
