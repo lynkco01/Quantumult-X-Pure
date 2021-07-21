@@ -60,6 +60,7 @@ ip-cidr, 129.227.71.0/24, Clubhouse
 ip-cidr, 129.227.156.0/24, Clubhouse
 ip-cidr, 129.227.205.0/24, Clubhouse
 ip-cidr, 129.227.234.0/24, Clubhouse
+ip-cidr, 130.117.89.73/32, Clubhouse
 ip-cidr, 148.153.126.0/24, Clubhouse
 ip-cidr, 148.153.172.0/24, Clubhouse
 ip-cidr, 154.86.156.199/32, Clubhouse
