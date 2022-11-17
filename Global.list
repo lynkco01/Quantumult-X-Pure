@@ -536,6 +536,9 @@ DOMAIN-SUFFIX,smoot.apple.com,PROXY
 DOMAIN,lookup-api.apple.com,PROXY
 # > Apple Music Web
 DOMAIN,beta.music.apple.com,PROXY
+
+# >Crypto
+DOMAIN-SuFFIX,binace.me,PROXY
 # ------
 # > Others
 DOMAIN-SUFFIX,bing.com,PROXY
