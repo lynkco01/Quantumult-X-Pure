@@ -21,3 +21,17 @@ IP-CIDR,144.178.0.0/19,Apple
 IP-CIDR,192.35.50.0/24,Apple
 IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
+
+# 新增 使用外区 Apple ID 优化，来自：https://t.me/LoonNews/894
+
+# Apple ID - Apple 设备必须能够连接到以下主机才能验证 Apple ID。所有使用 Apple ID 的服务（如 iCloud、App 安装和 Xcode）都需要满足这个条件。
+DOMAIN, appleid.apple.com,Apple # “设置”和“系统偏好设置”中的 Apple ID 认证
+DOMAIN, appleid.cdn-apple.com,Apple # “设置”和“系统偏好设置”中的 Apple ID 认证
+DOMAIN, idmsa.apple.com,Apple # Apple ID 认证
+DOMAIN, gsa.apple.com,Apple # Apple ID 认证
+
+# App Store - Apple 设备需要访问以下主机和域，才能安装和更新 App。
+DOMAIN-SUFFIX, itunes.apple.com,Apple # 商店内容，如 App、图书和音乐
+DOMAIN-SUFFIX, apps.apple.com,Apple # 商店内容，如 App、图书和音乐
+DOMAIN-SUFFIX, mzstatic.com,Apple # 商店内容，如 App、图书和音乐
+DOMAIN, ppq.apple.com,Apple # 企业 App 验证
