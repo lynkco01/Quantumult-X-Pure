@@ -16,7 +16,7 @@ IP-ASN,211157,Telegram
 # IP-CIDR,91.105.192.0/23,Telegram
 # IP-CIDR,185.76.151.0/24,Telegram
 # > Europe
-IP-ASN,62014,,Telegram
+IP-ASN,62014,Telegram
 IP-CIDR,149.154.160.0/20,Telegram
 ip6-cidr,2001:67c:4e8::/48,Telegram
 # IP-CIDR,91.108.4.0/22,Telegram
